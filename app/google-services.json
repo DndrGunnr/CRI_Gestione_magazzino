@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115680583985",
+    "project_id": "gestione-magazzino-2bf37",
+    "storage_bucket": "gestione-magazzino-2bf37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115680583985:android:64736215e81a47c61a5010",
+        "android_client_info": {
+          "package_name": "com.example.crigestionemagazzino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtuudKK8-IoZ33XkaVJQnBPqx_ydX4Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
